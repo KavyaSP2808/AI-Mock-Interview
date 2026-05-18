@@ -16,3 +16,6 @@ An AI-powered mock interview tool that helps students practice job interviews wi
 - Streamlit (UI framework)
 - Google Gemini API (AI) or built-in rule-based fallback
 - Custom CSS for styling
+
+## LIVE DEMO
+https://preppilotai.streamlit.app/
