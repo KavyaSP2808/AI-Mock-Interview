@@ -19,5 +19,5 @@ Get real-time feedback on your answers and a final summary report.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/preppilot-ai.git
+git clone https://github.com/KavyaSP2808/AI-Mock-Interview.git
 cd preppilot-ai
